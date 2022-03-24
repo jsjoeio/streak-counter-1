@@ -1,11 +1,11 @@
 {
-  "name": "@im-coder-lg/streak-counter",
+  "name": "@jsjoeio/streak-counter-1",
   "version": "0.0.1-rc2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/im-coder-lg/streak-counter"
+    "url": "https://github.com/jsjoeio/streak-counter-1"
   },
-  "author": "LG <github.com/im-coder-lg>",
+  "author": "jsjoeio <github.com/jsjoeio>",
   "license": "MIT License",
   "type": "module",
   "types":"./dist/index.d.ts",
